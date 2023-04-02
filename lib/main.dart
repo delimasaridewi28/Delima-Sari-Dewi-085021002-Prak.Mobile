@@ -7,6 +7,7 @@ import 'package:path_provider/path_provider.dart';
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(SqliteApp());
+  //Delima
 }
 
 class SqliteApp extends StatefulWidget {
